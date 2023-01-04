@@ -42,6 +42,21 @@
         }
       ?>
     </div>
+    <?php 
+					
+
+					?>
+					<div id="dvz" style="width:15%">
+            
+                <div id="dvz1">
+                    <!-- weather widget start -->
+                    <img src="https://w.bookcdn.com/weather/picture/3_37312_1_21_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=&domid=765&anc_id=78855" 
+                    alt="booked.net"/><!-- weather widget end -->
+                </div>
+	        	</div>
+	        	<div class="col-sm-3">
+	        	
+	        	</div>
   </div>
 
 
